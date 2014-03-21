@@ -30,4 +30,4 @@ python /path/to/zing.py [OPTION]
 `python zing.py -single http://mp3.zing.vn/bai-hat/Nang-Am-Xa-Dan-Son-Tung-M-TP/ZW67A09F.html -o ~/Music`
 `python zing.py -album http://mp3.zing.vn/playlist/Rap-tieu-bao/IWCZEFU9.html`
 
-![]()
+![screenshot](https://raw.githubusercontent.com/tieubao/mp3-zing-pydownloader/master/screenshot.png)
